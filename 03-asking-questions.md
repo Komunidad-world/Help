@@ -4,7 +4,7 @@ Ask the people in your city anything: where to find something, who to call, what
 
 ## Ask a question
 
-1. Click **Create** at the top of the menu. If **Post** is selected, switch to **Question**.
+1. Click **Create** at the top of the menu and choose **Question**. (On a phone, tap the **+** button at the bottom of the screen.)
 2. Type your question in the box (**What do you want to know?**). You can use up to 300 characters.
 3. Check the **Asking in** line. It shows which city your question goes to.
 4. Click **Ask**.
@@ -29,7 +29,7 @@ Every question is checked before it appears publicly. Until then, anyone opening
 
 ## After you ask
 
-- Find your questions on your **Overview** page.
+- Find your questions on **My dashboard**, in the **Questions** tab. (Click your name in the menu.)
 - You'll get a notification when someone answers.
 - You can't answer or vote on your own question. That's for other members.
 - When an answer is accepted, it moves to the top with an **Accepted answer** label.
@@ -40,9 +40,9 @@ A closed question no longer accepts new answers or votes. You'll see: **This que
 
 ## Finding questions
 
-- **Explore** shows a feed of questions and posts for you.
-- **Search** lets you look for questions by keyword. You can:
+- **Home** (Explore) shows a feed of questions and posts. Use the tabs to switch between **For you**, **Trending**, **Newest**, **Posts** and **Following** (people you follow).
+- **Search**: type in the search box at the top of the page. Results are split into tabs: **All**, **Questions**, **Answers**, **Posts** and **People**. You can:
   - Choose a city, or **All cities**
-  - Sort by **Best match** or **Most upvoted**
+  - Sort by **Best match**, **Newest** or **Most upvoted**
 
 **Search tips:** if you get no results, check the spelling or try fewer words. Try a more general term, like "generator" instead of a brand name.

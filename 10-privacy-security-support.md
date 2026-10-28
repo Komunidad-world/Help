@@ -10,22 +10,22 @@
 ## See where you're logged in
 
 1. Go to **Profile & settings**.
-2. Scroll to **Where you're logged in**.
+2. Open **Security**. Your devices are listed under **Where you're logged in**.
 
 You'll see each device signed in to your account. The one you're using is labelled **This device**. If you don't recognise a device, click **Log out** next to it, then [change your password](01-getting-started.md#forgot-your-password).
 
 ## Log out
 
-Click **Log out** at the bottom of the menu, or at the bottom of **Profile & settings**. You'll be asked to confirm.
+Click **Log out** at the bottom of the menu, or **Log out of this device** in **Profile & settings** → **Security**. You'll be asked to confirm.
 
 ## Control what others see
 
 | Setting | Where |
 |---|---|
-| Who can send you friend requests | Profile & settings → Preferences → Privacy |
+| Who can send you friend requests | Profile & settings → Privacy |
 | Whether people see you've read their messages | Profile & settings → Preferences → Read receipts |
 | Whether people see when you were last online | Profile & settings → Preferences → Last seen and online |
-| Blocked users | Profile & settings → Preferences → Blocked users |
+| Blocked users | Profile & settings → Privacy → Blocked users |
 
 Your email and phone number are private. Other members only see your public profile.
 
@@ -58,7 +58,7 @@ Your messages appear under **Your requests**, with their status:
 
 Replies from the team appear under your request as **Reply from Komunidad**.
 
-Can't log in? Use the **Contact us** page on the website, or the **Need help?** link on the log in screen.
+Can't log in? Use the **Contact us** page on the website.
 
 ## Legal
 

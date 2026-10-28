@@ -7,52 +7,53 @@ Komunidad has two ways to connect with people:
 
 ## Find people
 
-1. Go to **Friends** in the menu.
-2. Under **Find people**, type a username or name.
-3. Results appear below. Click **Clear search** to start again.
+1. Use the search box at the top of the page (**Search questions, answers, posts and people**) and type a name or username.
+2. On the results page, open the **People** tab.
+3. Click a person to open their profile.
 
-If no one shows up, check the username and try again.
+If no one shows up, check the spelling and try again.
 
-You can also visit anyone's profile page by clicking their name on a question, answer or post.
+You can also:
+
+- Look at **People to follow** on **Home** (Explore).
+- Click someone's name on a question, answer or post to open their profile.
 
 ## Send a friend request
 
-1. Find the person (see above), or open their profile.
-2. Click **Add friend**.
+1. Open the person's profile.
+2. Click **Add friend**. The button changes to **Request sent**.
 
-The request waits until they accept it. To withdraw it, click **Cancel request**.
+The request waits until they accept it. To withdraw it, go to **My dashboard** → **Friends** → **Requests sent** and click **Cancel**.
 
-If you see **Requests off**, that person has chosen not to receive friend requests.
+If there's no **Add friend** button on someone's profile, they've chosen not to receive friend requests.
 
 ## Accept or decline a friend request
 
-When someone sends you a request, a number appears next to **Friends** in the menu.
+1. Click your name in the menu to open **My dashboard**.
+2. Open the **Friends** tab, then **Requests received**.
+3. Click **Accept** or **Decline** for each request.
 
-1. Go to **Friends** and open the **Requests** tab.
-2. Under **Incoming**, click **Accept** or **Decline** for each request.
+You can also accept or decline from the person's profile.
 
-Requests you've sent are listed under **Sent**.
+## Your friends
 
-## Manage your friends
+Your friends are listed on **My dashboard** → **Friends**, with the month you became friends. Click **Message** next to a friend to start a chat, or click their name to see their profile.
 
-Your friends appear under **Your friends** on the Friends page. Click **Friend options** next to a friend to:
-
-- **Message** them
-- **Remove friend**
+On a friend's profile you'll see **Friends**, and a message button to chat with them.
 
 ## Follow someone
 
 1. Open the person's profile.
 2. Click **Follow**. The button changes to **Following**.
 
-To stop following, click **Following** on their profile.
+To stop following, click **Following** on their profile, or click **Unfollow** next to them in **My dashboard** → **Following**.
 
-A profile shows that person's answers, questions, posts, followers and who they follow. Your own followers and following are on your **Overview** page.
+A profile shows that person's answers, questions, posts, followers and who they follow. Your own followers and the people you follow are on the **Followers** and **Following** tabs of **My dashboard**. You can follow back or message people from there.
 
 ## Blocked users
 
-See the people you've blocked in **Profile & settings** → **Preferences** → **Blocked users**.
+See the people you've blocked in **Profile & settings** → **Privacy** → **Blocked users**.
 
 ## Control who can send you requests
 
-Go to **Profile & settings** → **Preferences** → **Who can send me friend requests**, and choose **Everyone** or **No one**.
+Go to **Profile & settings** → **Privacy** → **Who can send me friend requests**, and choose **Everyone** or **No one**.

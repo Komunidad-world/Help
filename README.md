@@ -19,23 +19,26 @@ This help covers everything you can do as a member on the Komunidad website.
 
 ## Finding your way around
 
-Once you're logged in, the menu on the left of your dashboard has:
+Once you're logged in, the menu on the left has:
 
 | Menu item | What it's for |
 |---|---|
-| **Create** | Ask a question or write a post |
-| **Overview** | Your home page: your questions, answers, posts and people |
-| **Friends** | Find people, manage friends and friend requests |
+| **Create** | Write a post, ask a question, start a group or start a chat |
+| **Home** | Explore: questions and posts from your community |
+| **Your name** (My dashboard) | Your own page: your posts, questions, answers, referrals, friends and followers |
 | **Chats** | Your messages and group chats |
-| **Earnings** | The KOM you've earned, and claiming it |
-| **Wallets** | Connect a crypto wallet to receive KOM |
-| **Referrals** | Your referral code and invite rewards |
+| **Earnings** | The **Wallet & Earnings** page: the KOM you've earned, and claiming it |
+| **Wallets** | The same **Wallet & Earnings** page. Open the **Wallets** tab to connect a crypto wallet |
 | **Notifications** | Updates about your questions, answers and account |
 | **Profile & settings** | Your details, privacy and preferences |
 | **Support** | Contact the Komunidad team |
 | **Log out** | Sign out of this device |
 
-A number next to **Friends**, **Chats** or **Notifications** shows how many new items are waiting for you.
+Click the arrow at the top of the menu to make it smaller or bigger. On a phone, the menu slides in from the side.
+
+**Friends** and **Referrals** are tabs on **My dashboard**. Click your name in the menu to find them.
+
+A number next to **Chats** or **Notifications** shows how many new items are waiting for you.
 
 ## Still stuck?
 

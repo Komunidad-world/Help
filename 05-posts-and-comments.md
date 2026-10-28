@@ -4,7 +4,7 @@ Posts let you share news, tips or updates with the community. You're not limited
 
 ## Write a post
 
-1. Click **Create** in the menu, then switch to **Post**.
+1. Click **Create** in the menu and choose **Post**.
 2. Add a title (up to 120 characters).
 3. Write your post (**Share what you know…**). You can add links.
 4. Add photos if you like, up to 10.
